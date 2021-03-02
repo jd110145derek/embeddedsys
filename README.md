@@ -9,4 +9,7 @@
 
 ## Demo
 * Skip Obstacle(Arduino-FreeRTOS)
-      https://www.youtube.com/watch?v=AN6JhAe48l0
+      
+![](https://i.imgur.com/lXTiXLF.jpg)
+      
+https://www.youtube.com/watch?v=AN6JhAe48l0
